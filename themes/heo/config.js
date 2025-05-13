@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '👋 欢迎，有缘相见！🎉', url: 'https://www.uloveto.com' },
-    { title: '🌊 平静，心思澄明', url: 'https://www.uloveto.com' }
+    { title: '👋 欢迎盆友，有缘相见！🎉', url: 'https://www.uloveto.com' },
+    { title: '🌊 愿您平静，心思澄明 🙏', url: 'https://www.uloveto.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -29,7 +29,7 @@ const CONFIG = {
   HEO_HERO_CATEGORY_2: { title: '热门内容', url: '/tag/热门内容' },
   HEO_HERO_CATEGORY_3: { title: '探索世界', url: '/tag/探索世界' },
 
-  HEO_HERO_TITLE_4: '最新关注',
+  HEO_HERO_TITLE_4: '>> 最新关注',
   HEO_HERO_TITLE_5: '我用 AI 做游戏',
   HEO_HERO_TITLE_LINK: 'https://www.uloveto.com',
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
