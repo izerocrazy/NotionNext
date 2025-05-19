@@ -61,10 +61,10 @@ const CONFIG = {
     {
       title_1: 'C++',
       img_1: '/images/heo/icons8-c++-48.png',
-      color_1: '#f7cb4f',
+      color_1: '#ffffff',
       title_2: 'C#',
-      img_2: '/images/heo/icons8-c#-logo-2-48.png',
-      color_2: '#e9572b'
+      img_2: '/images/heo/icons8-c-logo.png',
+      color_2: '#ffffff'
     },
     {
       title_1: 'Git',
@@ -72,15 +72,15 @@ const CONFIG = {
       color_1: '#df5b40',
       title_2: 'Unity',
       img_2: '/images/heo/icons8-unity-50.png',
-      color_2: '#1f1f1f'
+      color_2: '#ffffff'
     },
     {
       title_1: 'Blender',
       img_1: '/images/heo/icons8-blender-3d-48.png',
-      color_1: '#989bf8',
+      color_1: '#ffffff',
       title_2: 'CocosCreator',
       img_2: '/images/heo/icons-cocos.png',
-      color_2: '#8f55ba'
+      color_2: '#2c51db'
     },
     {
       title_1: 'JS',
